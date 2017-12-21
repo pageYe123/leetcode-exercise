@@ -2,6 +2,7 @@
 // Authur : pageYe
 // Date   : 2017-12-21
 
+// use sliding window, which is a abstract concept
 /**
  * solution 1
  * @param {string} s

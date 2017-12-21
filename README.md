@@ -9,4 +9,5 @@ Second, do the leetcode problem. If I can't solve it by myself, I will transform
 # problem list
 | # | Title | Source Code | Difficulty |
 |:---:|:---:|:---:|:---:|
-| 2 | [Add_Two_Numbers](https://leetcode.com/problems/add-two-numbers/description/) |[JavaScript](https://github.com/pageYe123/leetcode-exercise/blob/master/problemsSolution/2-Add-Two-Numbers.js) | Easy |
+| 2 | [Add_Two_Numbers](https://leetcode.com/problems/add-two-numbers/description/) |[JavaScript](https://github.com/pageYe123/leetcode-exercise/blob/master/problemsSolution/2-Add-Two-Numbers.js) | E |
+| 3 | [Longest Substring Without Repeating CharactersAdd_Two_Numbers](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[JavaScript](https://github.com/pageYe123/leetcode-exercise/tree/master/problemsSolution/) | M |
